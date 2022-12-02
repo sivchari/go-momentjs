@@ -1,6 +1,3 @@
-# go-momentjs
-
-```go
 package main
 
 import (
@@ -25,4 +22,3 @@ func main() {
 	result.Free()
 	log.Println(resultDate)
 }
-```
